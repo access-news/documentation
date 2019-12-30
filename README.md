@@ -1,5 +1,13 @@
 # 1. Access News
 
+## 0. Community
+
++ #access-news IRC channel on [freenode.net](https://freenode.net/) ([logs](https://freenode.logbot.info/access-news))
+
+  Try using https://webchat.freenode.net/ or the Riot mobile app to connect.
+
++ accessnews@societyfortheblind.org
+
 ## 1. Overview
 
 ```text
@@ -62,9 +70,9 @@
     (PWAs) can be installed as standalone applications on Android, and
     [soon on iOS as well](https://medium.com/@firt/progressive-web-apps-on-ios-are-here-d00430dee3a7).
 
-    The main goal  is for the new apps  to be accessible
-    though, and not sure how PWAs hold up in this aspect
-    against native apps.
+The main goal  is for the new apps  to be accessible
+though, and not sure how PWAs hold up in this aspect
+against native apps.
 
 ## 2. Social aspects
 
