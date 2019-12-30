@@ -1,4 +1,4 @@
-# 1. Access News
+# Access News
 
 ## 0. Community
 
